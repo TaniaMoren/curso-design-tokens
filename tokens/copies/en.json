@@ -1,0 +1,414 @@
+{
+  "hero": {
+    "title": {
+      "$type": "text",
+      "$value": "Hero Title"
+    },
+    "subtitle": {
+      "$type": "text",
+      "$value": "Hero Subtitle"
+    },
+    "button": {
+      "$type": "text",
+      "$value": "Hero Button"
+    }
+  },
+  "intro": {
+    "title": {
+      "$type": "text",
+      "$value": "Intro Title"
+    },
+    "subtitle": {
+      "p1": {
+        "$type": "text",
+        "$value": "Intro paragraph 1"
+      },
+      "p2": {
+        "$type": "text",
+        "$value": "Intro paragraph 2"
+      }
+    },
+    "button": {
+      "primary": {
+        "$type": "text",
+        "$value": "Intro button primary"
+      },
+      "secondary": {
+        "$type": "text",
+        "$value": "Intro button secondary"
+      }
+    }
+  },
+  "logos": {
+    "title": {
+      "$type": "text",
+      "$value": "Logos Title"
+    }
+  },
+  "sessions": {
+    "title": {
+      "$type": "text",
+      "$value": "Sessions title"
+    },
+    "tag": {
+      "one": {
+        "$type": "text",
+        "$value": "Sessions tag one"
+      },
+      "two": {
+        "$type": "text",
+        "$value": "Sessions tag two"
+      },
+      "three": {
+        "$type": "text",
+        "$value": "Sessions tag three"
+      },
+      "four": {
+        "$type": "text",
+        "$value": "Sessions tag four"
+      },
+      "five": {
+        "$type": "text",
+        "$value": "Sessions tag five"
+      }
+    },
+    "card": {
+      "one": {
+        "caption": {
+          "$type": "text",
+          "$value": "Card caption one"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Card title one"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Card description one"
+        }
+      },
+      "two": {
+        "caption": {
+          "$type": "text",
+          "$value": "Card caption two"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Card title two"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Card description two"
+        }
+      },
+      "three": {
+        "caption": {
+          "$type": "text",
+          "$value": "Card caption three"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Card title three"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Card description three"
+        }
+      },
+      "four": {
+        "caption": {
+          "$type": "text",
+          "$value": "Card caption four"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Card title four"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Card description four"
+        }
+      },
+      "five": {
+        "caption": {
+          "$type": "text",
+          "$value": "Card caption five"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Card title five"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Card description five"
+        }
+      },
+      "six": {
+        "caption": {
+          "$type": "text",
+          "$value": "Card caption six"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Card title six"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Card description six"
+        }
+      },
+      "seven": {
+        "caption": {
+          "$type": "text",
+          "$value": "Card caption seven"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Card title seven"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Card description seven"
+        }
+      },
+      "eight": {
+        "caption": {
+          "$type": "text",
+          "$value": "Card caption eight"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Card title eight"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Card description eight"
+        }
+      },
+      "nine": {
+        "caption": {
+          "$type": "text",
+          "$value": "Card caption nine"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Card title nine"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Card description nine"
+        }
+      },
+      "ten": {
+        "caption": {
+          "$type": "text",
+          "$value": "Card caption ten"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Card title ten"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Card description ten"
+        }
+      }
+    }
+  },
+  "teachers": {
+    "one": {
+      "name": {
+        "$type": "text",
+        "$value": "Name one"
+      },
+      "position": {
+        "$type": "text",
+        "$value": "Position one"
+      }
+    },
+    "two": {
+      "name": {
+        "$type": "text",
+        "$value": "Name two"
+      },
+      "position": {
+        "$type": "text",
+        "$value": "Position two"
+      }
+    },
+    "title": {
+      "$type": "text",
+      "$value": "Title teachers"
+    }
+  },
+  "pricing": {
+    "title": {
+      "$type": "text",
+      "$value": "Pricing title"
+    },
+    "card": {
+      "one": {
+        "caption": {
+          "$type": "text",
+          "$value": "Caption card one"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Title card one"
+        },
+        "price": {
+          "$type": "text",
+          "$value": "Price"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Description card one"
+        },
+        "button": {
+          "$type": "text",
+          "$value": "Button card one"
+        }
+      },
+      "two": {
+        "caption": {
+          "$type": "text",
+          "$value": "Caption card two"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Title card two"
+        },
+        "price-primary": {
+          "$type": "text",
+          "$value": "Price"
+        },
+        "price-secondary": {
+          "$type": "text",
+          "$value": "Price 2"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Description card two"
+        },
+        "button": {
+          "$type": "text",
+          "$value": "Button card two"
+        }
+      },
+      "three": {
+        "caption": {
+          "$type": "text",
+          "$value": "Caption card three"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Title card three"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Description card three"
+        },
+        "button": {
+          "$type": "text",
+          "$value": "Button card three"
+        }
+      }
+    }
+  },
+  "video": {
+    "title": {
+      "$type": "text",
+      "$value": "Title video"
+    }
+  },
+  "faqs": {
+    "one": {
+      "title": {
+        "$type": "text",
+        "$value": "Title one"
+      },
+      "description": {
+        "$type": "text",
+        "$value": "Description one"
+      }
+    },
+    "two": {
+      "title": {
+        "$type": "text",
+        "$value": "Title two"
+      },
+      "description": {
+        "$type": "text",
+        "$value": "Description two"
+      }
+    },
+    "three": {
+      "title": {
+        "$type": "text",
+        "$value": "Title three"
+      },
+      "description": {
+        "$type": "text",
+        "$value": "Description three"
+      }
+    },
+    "four": {
+      "title": {
+        "$type": "text",
+        "$value": "Title four"
+      },
+      "description": {
+        "$type": "text",
+        "$value": "Description four"
+      }
+    },
+    "five": {
+      "title": {
+        "$type": "text",
+        "$value": "Title five"
+      },
+      "description": {
+        "$type": "text",
+        "$value": "Description five"
+      }
+    },
+    "six": {
+      "title": {
+        "$type": "text",
+        "$value": "Title six"
+      },
+      "description": {
+        "$type": "text",
+        "$value": "Description six"
+      }
+    },
+    "title": {
+      "$type": "text",
+      "$value": "Title FAQs"
+    }
+  },
+  "footer": {
+    "copyright": {
+      "$type": "text",
+      "$value": "Copyright © 2025 All rights reserved."
+    },
+    "link": {
+      "privacy": {
+        "$type": "text",
+        "$value": "Privacy"
+      },
+      "mail": {
+        "$type": "text",
+        "$value": "mail"
+      },
+      "linkedin": {
+        "$type": "text",
+        "$value": "Linkedin"
+      },
+      "substack": {
+        "$type": "text",
+        "$value": "Substack"
+      }
+    }
+  }
+}
