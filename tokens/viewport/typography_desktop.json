@@ -123,6 +123,17 @@
           }
         }
       }
+    },
+    "button": {
+      "default": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamily.primary}",
+          "fontWeight": "{fontWeight.medium}",
+          "fontSize": "{fontSize.100}",
+          "lineHeight": "{lineHeight.small}"
+        }
+      }
     }
   }
 }
