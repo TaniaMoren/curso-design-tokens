@@ -1,274 +1,274 @@
 {
   "dimension": {
     "x025": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} / 4"
+      "value": "{dimension.x100} / 4",
+      "type": "dimension"
     },
     "x050": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} / 2"
+      "value": "{dimension.x100} / 2",
+      "type": "dimension"
     },
     "x100": {
-      "$type": "dimension",
-      "$value": "4"
+      "value": "4",
+      "type": "dimension"
     },
     "x200": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 2"
+      "value": "{dimension.x100} * 2",
+      "type": "dimension"
     },
     "x300": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 3"
+      "value": "{dimension.x100} * 3",
+      "type": "dimension"
     },
     "x400": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 4"
+      "value": "{dimension.x100} * 4",
+      "type": "dimension"
     },
     "x500": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 5"
+      "value": "{dimension.x100} * 5",
+      "type": "dimension"
     },
     "x600": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 6"
+      "value": "{dimension.x100} * 6",
+      "type": "dimension"
     },
     "x700": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 7"
+      "value": "{dimension.x100} * 7",
+      "type": "dimension"
     },
     "x800": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 8"
+      "value": "{dimension.x100} * 8",
+      "type": "dimension"
     },
     "x900": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 9"
+      "value": "{dimension.x100} * 9",
+      "type": "dimension"
     },
     "x1000": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 10"
+      "value": "{dimension.x100} * 10",
+      "type": "dimension"
     },
     "x1100": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 11"
+      "value": "{dimension.x100} * 11",
+      "type": "dimension"
     },
     "x1200": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 12"
+      "value": "{dimension.x100} * 12",
+      "type": "dimension"
     },
     "x1300": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 13"
+      "value": "{dimension.x100} * 13",
+      "type": "dimension"
     },
     "x1400": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 14"
+      "value": "{dimension.x100} * 14",
+      "type": "dimension"
     },
     "x1500": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 15"
+      "value": "{dimension.x100} * 15",
+      "type": "dimension"
     },
     "x1600": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 16"
+      "value": "{dimension.x100} * 16",
+      "type": "dimension"
     },
     "x1700": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 17"
+      "value": "{dimension.x100} * 17",
+      "type": "dimension"
     },
     "x1800": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 18"
+      "value": "{dimension.x100} * 18",
+      "type": "dimension"
     },
     "x1900": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 19"
+      "value": "{dimension.x100} * 19",
+      "type": "dimension"
     },
     "x2000": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 20"
+      "value": "{dimension.x100} * 20",
+      "type": "dimension"
     },
     "x2100": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 21"
+      "value": "{dimension.x100} * 21",
+      "type": "dimension"
     },
     "x2200": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 22"
+      "value": "{dimension.x100} * 22",
+      "type": "dimension"
     },
     "x2300": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 23"
+      "value": "{dimension.x100} * 23",
+      "type": "dimension"
     },
     "x2400": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 24"
+      "value": "{dimension.x100} * 24",
+      "type": "dimension"
     },
     "x2500": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 25"
+      "value": "{dimension.x100} * 25",
+      "type": "dimension"
     },
     "x2600": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 26"
+      "value": "{dimension.x100} * 26",
+      "type": "dimension"
     },
     "x2700": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 27"
+      "value": "{dimension.x100} * 27",
+      "type": "dimension"
     },
     "x2800": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 28"
+      "value": "{dimension.x100} * 28",
+      "type": "dimension"
     },
     "x2900": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 29"
+      "value": "{dimension.x100} * 29",
+      "type": "dimension"
     },
     "x3000": {
-      "$type": "dimension",
-      "$value": "{dimension.x100} * 30"
+      "value": "{dimension.x100} * 30",
+      "type": "dimension"
     }
   },
   "borderRadius": {
     "small": {
-      "$type": "borderRadius",
-      "$value": "{dimension.x100}"
+      "value": "{dimension.x100}",
+      "type": "borderRadius"
     },
     "medium": {
-      "$type": "borderRadius",
-      "$value": "{dimension.x600}"
+      "value": "{dimension.x600}",
+      "type": "borderRadius"
     },
     "large": {
-      "$type": "borderRadius",
-      "$value": "{dimension.x1000}"
+      "value": "{dimension.x1000}",
+      "type": "borderRadius"
     }
   },
   "fontFamily": {
     "primary": {
-      "$type": "fontFamilies",
-      "$value": "Space Grotesk"
+      "value": "Space Grotesk",
+      "type": "fontFamilies"
     },
     "secondary": {
-      "$type": "fontFamilies",
-      "$value": "Outfit"
+      "value": "Outfit",
+      "type": "fontFamilies"
     }
   },
   "lineHeight": {
     "small": {
-      "$type": "lineHeights",
-      "$value": "120%"
+      "value": "120%",
+      "type": "lineHeights"
     },
     "medium": {
-      "$type": "lineHeights",
-      "$value": "150%"
+      "value": "150%",
+      "type": "lineHeights"
     }
   },
   "fontWeight": {
     "light": {
-      "$type": "fontWeights",
-      "$value": "Light"
+      "value": "Light",
+      "type": "fontWeights"
     },
     "regular": {
-      "$type": "fontWeights",
-      "$value": "Regular"
+      "value": "Regular",
+      "type": "fontWeights"
     },
     "medium": {
-      "$type": "fontWeights",
-      "$value": "Medium"
+      "value": "Medium",
+      "type": "fontWeights"
     },
     "semibold": {
-      "$type": "fontWeights",
-      "$value": "SemiBold"
+      "value": "SemiBold",
+      "type": "fontWeights"
     }
   },
   "fontSize": {
     "80": {
-      "$type": "fontSizes",
-      "$value": "{fontSize.90} * 0.875"
+      "value": "{fontSize.90} * 0.875",
+      "type": "fontSizes"
     },
     "90": {
-      "$type": "fontSizes",
-      "$value": "{fontSize.base} * 0.875"
+      "value": "{fontSize.base} * 0.875",
+      "type": "fontSizes"
     },
     "100": {
-      "$type": "fontSizes",
-      "$value": "{fontSize.base}"
+      "value": "{fontSize.base}",
+      "type": "fontSizes"
     },
     "200": {
-      "$type": "fontSizes",
-      "$value": "{fontSize.100} * 1.125"
+      "value": "{fontSize.100} * 1.125",
+      "type": "fontSizes"
     },
     "300": {
-      "$type": "fontSizes",
-      "$value": "{fontSize.200} * 1.125"
+      "value": "{fontSize.200} * 1.125",
+      "type": "fontSizes"
     },
     "400": {
-      "$type": "fontSizes",
-      "$value": "{fontSize.300} * 1.125"
+      "value": "{fontSize.300} * 1.125",
+      "type": "fontSizes"
     },
     "500": {
-      "$type": "fontSizes",
-      "$value": "{fontSize.400} * 1.25"
+      "value": "{fontSize.400} * 1.25",
+      "type": "fontSizes"
     },
     "600": {
-      "$type": "fontSizes",
-      "$value": "{fontSize.500} * 1.125"
+      "value": "{fontSize.500} * 1.125",
+      "type": "fontSizes"
     },
     "700": {
-      "$type": "fontSizes",
-      "$value": "{fontSize.600} * 1.125"
+      "value": "{fontSize.600} * 1.125",
+      "type": "fontSizes"
     },
     "800": {
-      "$type": "fontSizes",
-      "$value": "{fontSize.700} * 1.125"
+      "value": "{fontSize.700} * 1.125",
+      "type": "fontSizes"
     },
     "900": {
-      "$type": "fontSizes",
-      "$value": "{fontSize.800} * 1.125"
+      "value": "{fontSize.800} * 1.125",
+      "type": "fontSizes"
     },
     "1000": {
-      "$type": "fontSizes",
-      "$value": "{fontSize.900} * 1.125"
+      "value": "{fontSize.900} * 1.125",
+      "type": "fontSizes"
     },
     "base": {
-      "$type": "fontSizes",
-      "$value": "16"
+      "value": "16",
+      "type": "fontSizes"
     }
   },
   "borderWidth": {
     "small": {
-      "$type": "borderWidth",
-      "$value": "{dimension.x025}"
+      "value": "{dimension.x025}",
+      "type": "borderWidth"
     },
     "medium": {
-      "$type": "borderWidth",
-      "$value": "{dimension.x050}"
+      "value": "{dimension.x050}",
+      "type": "borderWidth"
     }
   },
   "textDecoration": {
     "underline": {
-      "$type": "textDecoration",
-      "$value": "underline"
+      "value": "underline",
+      "type": "textDecoration"
     }
   },
   "letterSpacing": {
     "default": {
-      "$type": "letterSpacing",
-      "$value": "0"
+      "value": "0",
+      "type": "letterSpacing"
     },
     "expanded": {
-      "$type": "letterSpacing",
-      "$value": "{dimension.x050}"
+      "value": "{dimension.x050}",
+      "type": "letterSpacing"
     },
     "contracted": {
-      "$type": "letterSpacing",
-      "$value": "- {dimension.x050}"
+      "value": "- {dimension.x050}",
+      "type": "letterSpacing"
     }
   },
   "textCase": {
     "uppercase": {
-      "$type": "textCase",
-      "$value": "uppercase"
+      "value": "uppercase",
+      "type": "textCase"
     }
   }
 }

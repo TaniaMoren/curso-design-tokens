@@ -4,86 +4,86 @@
       "background": {
         "primary": {
           "default": {
-            "$type": "color",
-            "$value": "{color.core.background.accent}"
+            "value": "{color.core.background.accent}",
+            "type": "color"
           },
           "hover": {
-            "$type": "color",
-            "$value": "{color.states.background.accent-hover}"
+            "value": "{color.states.background.accent-hover}",
+            "type": "color"
           },
           "active": {
-            "$type": "color",
-            "$value": "{color.states.background.accent-active}"
+            "value": "{color.states.background.accent-active}",
+            "type": "color"
           }
         },
         "secondary": {
           "hover": {
-            "$type": "color",
-            "$value": "{color.states.background.accent-light-hover}"
+            "value": "{color.states.background.accent-light-hover}",
+            "type": "color"
           },
           "active": {
-            "$type": "color",
-            "$value": "{color.states.background.accent-light-active}"
+            "value": "{color.states.background.accent-light-active}",
+            "type": "color"
           }
         }
       },
       "content": {
         "primary": {
           "default": {
-            "$type": "color",
-            "$value": "{color.core.content.inverse}"
+            "value": "{color.core.content.inverse}",
+            "type": "color"
           },
           "hover": {
-            "$type": "color",
-            "$value": "{color.core.content.inverse}"
+            "value": "{color.core.content.inverse}",
+            "type": "color"
           },
           "active": {
-            "$type": "color",
-            "$value": "{color.core.content.inverse}"
+            "value": "{color.core.content.inverse}",
+            "type": "color"
           }
         },
         "secondary": {
           "default": {
-            "$type": "color",
-            "$value": "{color.core.content.accent}"
+            "value": "{color.core.content.accent}",
+            "type": "color"
           },
           "hover": {
-            "$type": "color",
-            "$value": "{color.core.content.accent}"
+            "value": "{color.core.content.accent}",
+            "type": "color"
           },
           "active": {
-            "$type": "color",
-            "$value": "{color.core.content.accent}"
+            "value": "{color.core.content.accent}",
+            "type": "color"
           }
         }
       },
       "border": {
         "primary": {
           "default": {
-            "$type": "color",
-            "$value": "{color.core.background.accent}"
+            "value": "{color.core.background.accent}",
+            "type": "color"
           },
           "hover": {
-            "$type": "color",
-            "$value": "{color.button.background.primary.hover}"
+            "value": "{color.button.background.primary.hover}",
+            "type": "color"
           },
           "active": {
-            "$type": "color",
-            "$value": "{color.states.background.accent-active}"
+            "value": "{color.states.background.accent-active}",
+            "type": "color"
           }
         },
         "secondary": {
           "default": {
-            "$type": "color",
-            "$value": "{color.core.border.accent}"
+            "value": "{color.core.border.accent}",
+            "type": "color"
           },
           "hover": {
-            "$type": "color",
-            "$value": "{color.core.border.accent}"
+            "value": "{color.core.border.accent}",
+            "type": "color"
           },
           "active": {
-            "$type": "color",
-            "$value": "{color.core.border.accent}"
+            "value": "{color.core.border.accent}",
+            "type": "color"
           }
         }
       }

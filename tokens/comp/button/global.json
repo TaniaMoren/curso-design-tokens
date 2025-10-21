@@ -2,13 +2,13 @@
   "font": {
     "button": {
       "default": {
-        "$type": "typography",
-        "$value": {
+        "value": {
           "fontFamily": "{fontFamily.primary}",
           "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.100}",
           "lineHeight": "{lineHeight.small}"
-        }
+        },
+        "type": "typography"
       }
     }
   },
@@ -16,8 +16,8 @@
     "button": {
       "height": {
         "default": {
-          "$type": "sizing",
-          "$value": "{dimension.x1000}"
+          "value": "{dimension.x1000}",
+          "type": "sizing"
         }
       }
     }
@@ -25,8 +25,8 @@
   "borderRadius": {
     "button": {
       "default": {
-        "$type": "borderRadius",
-        "$value": "{borderRadius.medium}"
+        "value": "{borderRadius.medium}",
+        "type": "borderRadius"
       }
     }
   }
