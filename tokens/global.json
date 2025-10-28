@@ -130,13 +130,13 @@
     }
   },
   "borderRadius": {
-    "small": {
-      "$type": "borderRadius",
-      "$value": "{dimension.x100}"
-    },
     "medium": {
       "$type": "borderRadius",
       "$value": "{dimension.x600}"
+    },
+    "small": {
+      "$type": "borderRadius",
+      "$value": "{dimension.x100}"
     },
     "large": {
       "$type": "borderRadius",
@@ -145,18 +145,18 @@
     "button": {
       "default": {
         "$type": "borderRadius",
-        "$value": "{borderRadius.medium}"
+        "$value": "{dimension.x300}"
       }
     }
   },
   "fontFamily": {
     "primary": {
       "$type": "fontFamilies",
-      "$value": "Space Grotesk"
+      "$value": "Bungee Shade"
     },
     "secondary": {
       "$type": "fontFamilies",
-      "$value": "Outfit"
+      "$value": "Inter"
     }
   },
   "lineHeight": {
@@ -282,7 +282,7 @@
       "height": {
         "default": {
           "$type": "sizing",
-          "$value": "{dimension.x1000}"
+          "$value": "{dimension.x1400}"
         }
       }
     }

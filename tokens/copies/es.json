@@ -2,26 +2,26 @@
   "hero": {
     "title": {
       "$type": "text",
-      "$value": "Bienvenido mundo!"
+      "$value": "THE \nCOFFEE CODE"
     },
     "subtitle": {
       "$type": "text",
-      "$value": "Subtítulo principal"
+      "$value": "Un curso pensado para quienes disfrutan del café y quieren aprender a prepararlo con mimo, precisión y estilo, sin salir de casa."
     },
     "button": {
       "$type": "text",
-      "$value": "Botón principal"
+      "$value": "Descubre cómo hacerlo"
     }
   },
   "intro": {
     "title": {
       "$type": "text",
-      "$value": "Título de introducción"
+      "$value": "¿Qué aprenderás?"
     },
     "subtitle": {
       "p1": {
         "$type": "text",
-        "$value": "Párrafo de introducción 1"
+        "$value": "Clases en vídeo, recetas imprimibles y tips sencillos para que puedas practicar con tu cafetera o prensa francesa.Todo diseñado para que aprendas a tu ritmo y disfrutes de cada preparación."
       },
       "p2": {
         "$type": "text",
@@ -31,18 +31,18 @@
     "button": {
       "primary": {
         "$type": "text",
-        "$value": "Botón primario de introducción"
+        "$value": "Quiero más información"
       },
       "secondary": {
         "$type": "text",
-        "$value": "Botón secundario de introducción"
+        "$value": "Apúntate ya"
       }
     }
   },
   "logos": {
     "title": {
       "$type": "text",
-      "$value": "Título de logos"
+      "$value": "Marcas con las que colaboramos"
     }
   },
   "sessions": {

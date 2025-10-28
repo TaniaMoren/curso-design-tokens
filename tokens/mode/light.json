@@ -8,7 +8,7 @@
         },
         "secondary": {
           "$type": "color",
-          "$value": "{color.palette.mono.700}"
+          "$value": "{color.palette.mono.100}"
         },
         "inverse": {
           "$type": "color",
@@ -22,7 +22,7 @@
       "background": {
         "surface": {
           "$type": "color",
-          "$value": "{color.palette.white}"
+          "$value": "{color.palette.mono.100}"
         },
         "primary": {
           "$type": "color",
@@ -34,7 +34,7 @@
         },
         "accent": {
           "$type": "color",
-          "$value": "{color.palette.accent.700}"
+          "$value": "{color.palette.accent.400}"
         },
         "accent-light": {
           "$type": "color",
@@ -77,7 +77,7 @@
         "primary": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.background.accent}"
+            "$value": "{color.palette.black}"
           },
           "hover": {
             "$type": "color",
@@ -117,7 +117,7 @@
         "secondary": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.content.accent}"
+            "$value": "{color.palette.black}"
           },
           "hover": {
             "$type": "color",
@@ -133,7 +133,7 @@
         "primary": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.background.accent}"
+            "$value": "{color.palette.accent.500}"
           },
           "hover": {
             "$type": "color",
@@ -147,7 +147,7 @@
         "secondary": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.border.accent}"
+            "$value": "{color.palette.black}"
           },
           "hover": {
             "$type": "color",
