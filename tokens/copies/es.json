@@ -48,12 +48,12 @@
   "sessions": {
     "title": {
       "$type": "text",
-      "$value": "Título de sesiones"
+      "$value": "Tu recorrido cafetero"
     },
     "tag": {
       "one": {
         "$type": "text",
-        "$value": "Etiqueta de sesión uno"
+        "$value": "Sesión uno"
       },
       "two": {
         "$type": "text",
