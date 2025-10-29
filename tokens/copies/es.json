@@ -122,11 +122,11 @@
         },
         "title": {
           "$type": "text",
-          "$value": "¿Recibo algún certificado al finalizar?"
+          "$value": "Domina los métodos de filtrado"
         },
         "description": {
           "$type": "text",
-          "$value": "Sí, al completar todas las sesiones recibirás un certificado digital de The Coffee Code que podrás compartir en redes o añadir a tu portfolio."
+          "$value": "Chemex, prensa francesa, V60… Te enseñamos paso a paso cómo dominar cada técnica y encontrar tu favorita."
         }
       },
       "five": {
@@ -136,11 +136,11 @@
         },
         "title": {
           "$type": "text",
-          "$value": "¿Y si tengo dudas durante el curso?"
+          "$value": "Leche y arte latte"
         },
         "description": {
           "$type": "text",
-          "$value": "Incluye ambas: aprenderás la base teórica y practicarás con recetas de café caliente, frío y combinaciones creativas."
+          "$value": "Descubre cómo texturizar la leche para lograr una crema suave y densa, y aprende las bases del arte latte."
         }
       },
       "six": {
