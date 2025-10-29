@@ -85,7 +85,7 @@
           },
           "active": {
             "$type": "color",
-            "$value": "{color.states.background.accent-active}"
+            "$value": "{color.palette.accent.950}"
           }
         },
         "secondary": {
