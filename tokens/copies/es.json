@@ -219,7 +219,7 @@
     "one": {
       "name": {
         "$type": "text",
-        "$value": "Nombre uno"
+        "$value": "Alex Rivas"
       },
       "position": {
         "$type": "text",
@@ -229,7 +229,7 @@
     "two": {
       "name": {
         "$type": "text",
-        "$value": "Nombre dos"
+        "$value": "Lucía Ferrer"
       },
       "position": {
         "$type": "text",
