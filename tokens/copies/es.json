@@ -94,11 +94,11 @@
         },
         "title": {
           "$type": "text",
-          "$value": "¿Qué materiales o utensilios necesito?"
+          "$value": "Del grano a la molienda perfecta"
         },
         "description": {
           "$type": "text",
-          "$value": "Solo una cafetera (italiana, de filtro o prensa francesa) y muchas ganas de experimentar. Durante el curso te daremos recomendaciones opcionales según cada método."
+          "$value": "Aprende cómo elegir, moler y conservar el café según el método de preparación. Pequeños ajustes, grandes diferencias."
         }
       },
       "three": {
@@ -108,11 +108,11 @@
         },
         "title": {
           "$type": "text",
-          "$value": "¿Puedo seguir el curso a mi ritmo?"
+          "$value": "El agua también cuenta"
         },
         "description": {
           "$type": "text",
-          "$value": "Sí. Todo el contenido está disponible online y puedes repetir las lecciones tantas veces como quieras."
+          "$value": "Explora cómo la temperatura, la proporción y la calidad del agua afectan el sabor. La ciencia detrás de una taza equilibrada."
         }
       },
       "four": {
