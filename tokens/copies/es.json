@@ -94,11 +94,11 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta dos"
+          "$value": "¿Qué materiales o utensilios necesito?"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta dos"
+          "$value": "Solo una cafetera (italiana, de filtro o prensa francesa) y muchas ganas de experimentar. Durante el curso te daremos recomendaciones opcionales según cada método."
         }
       },
       "three": {
@@ -108,11 +108,11 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta tres"
+          "$value": "¿Puedo seguir el curso a mi ritmo?"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta tres"
+          "$value": "Sí. Todo el contenido está disponible online y puedes repetir las lecciones tantas veces como quieras."
         }
       },
       "four": {
