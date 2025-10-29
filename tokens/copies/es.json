@@ -136,17 +136,17 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta cinco"
+          "$value": "¿Y si tengo dudas durante el curso?"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta cinco"
+          "$value": "Incluye ambas: aprenderás la base teórica y practicarás con recetas de café caliente, frío y combinaciones creativas."
         }
       },
       "six": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta seis"
+          "$value": "Sesión seis"
         },
         "title": {
           "$type": "text",
@@ -154,7 +154,7 @@
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta seis"
+          "$value": "Podrás escribirnos o dejar comentarios en cada lección. Nuestro equipo responde en un máximo de 48 horas."
         }
       },
       "seven": {
