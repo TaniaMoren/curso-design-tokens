@@ -7,8 +7,6 @@
     "mode/light",
     "mode/dark",
     "copies/es",
-    "copies/en",
-    "comp/button/color",
-    "comp/button/global"
+    "copies/en"
   ]
 }
