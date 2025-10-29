@@ -90,7 +90,7 @@
       "two": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta dos"
+          "$value": "SESIÓN DOS"
         },
         "title": {
           "$type": "text",
@@ -104,7 +104,7 @@
       "three": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta tres"
+          "$value": "SESIÓN TRES"
         },
         "title": {
           "$type": "text",
@@ -118,7 +118,7 @@
       "four": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta cuatro"
+          "$value": "SESIÓN CINCO"
         },
         "title": {
           "$type": "text",
