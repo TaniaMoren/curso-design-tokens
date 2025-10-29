@@ -238,7 +238,7 @@
     },
     "title": {
       "$type": "text",
-      "$value": "Título de profesores"
+      "$value": "Maestros del espresso"
     }
   },
   "pricing": {
