@@ -150,11 +150,11 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta seis"
+          "$value": "Cold brew y café helado"
         },
         "description": {
           "$type": "text",
-          "$value": "Podrás escribirnos o dejar comentarios en cada lección. Nuestro equipo responde en un máximo de 48 horas."
+          "$value": "Experimenta con infusiones frías, recetas refrescantes y combinaciones modernas para los meses más cálidos."
         }
       },
       "seven": {
