@@ -2,7 +2,7 @@
   "hero": {
     "title": {
       "$type": "text",
-      "$value": "Hero Title"
+      "$value": "THE COFFEE.CODE"
     },
     "subtitle": {
       "$type": "text",
