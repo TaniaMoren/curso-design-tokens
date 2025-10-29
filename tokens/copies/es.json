@@ -118,15 +118,15 @@
       "four": {
         "caption": {
           "$type": "text",
-          "$value": "SESIÓN CINCO"
+          "$value": "SESIÓN CUATRO"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta cuatro"
+          "$value": "¿Recibo algún certificado al finalizar?"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta cuatro"
+          "$value": "Sí, al completar todas las sesiones recibirás un certificado digital de The Coffee Code que podrás compartir en redes o añadir a tu portfolio."
         }
       },
       "five": {
