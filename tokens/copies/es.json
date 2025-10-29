@@ -61,15 +61,15 @@
       },
       "three": {
         "$type": "text",
-        "$value": "Etiqueta de sesión tres"
+        "$value": "Sesión tres"
       },
       "four": {
         "$type": "text",
-        "$value": "Etiqueta de sesión cuatro"
+        "$value": "Sesión cuatro"
       },
       "five": {
         "$type": "text",
-        "$value": "Etiqueta de sesión cinco"
+        "$value": "Sesión cinco"
       }
     },
     "card": {
