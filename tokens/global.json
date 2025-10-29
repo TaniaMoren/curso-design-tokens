@@ -234,7 +234,7 @@
     },
     "1000": {
       "$type": "fontSizes",
-      "$value": "{fontSize.900} * 1.125"
+      "$value": "{fontSize.900} * 2"
     },
     "base": {
       "$type": "fontSizes",
