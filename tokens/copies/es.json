@@ -57,7 +57,7 @@
       },
       "two": {
         "$type": "text",
-        "$value": "Etiqueta de sesión dos"
+        "$value": "Sesión dos"
       },
       "three": {
         "$type": "text",
@@ -76,15 +76,15 @@
       "one": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta uno"
+          "$value": "SESIÓN UNO"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta uno"
+          "$value": "Bienvenido al ritual del café"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta uno"
+          "$value": "Clases en vídeo, recetas imprimibles y tips sencillos para que puedas practicar con tu cafetera o prensa francesa.Todo diseñado para que aprendas a tu ritmo y disfrutes de cada preparación."
         }
       },
       "two": {
