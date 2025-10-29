@@ -223,7 +223,7 @@
       },
       "position": {
         "$type": "text",
-        "$value": "Cargo uno"
+        "$value": "Barista y tostador artesanal"
       }
     },
     "two": {
@@ -233,7 +233,7 @@
       },
       "position": {
         "$type": "text",
-        "$value": "Cargo dos"
+        "$value": "Especialista en arte latte y café de autor"
       }
     },
     "title": {
