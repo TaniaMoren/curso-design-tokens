@@ -4,7 +4,7 @@
       "content": {
         "primary": {
           "$type": "color",
-          "$value": "{color.palette.black}"
+          "$value": "{color.palette.white}"
         },
         "secondary": {
           "$type": "color",
@@ -34,7 +34,7 @@
         },
         "accent": {
           "$type": "color",
-          "$value": "{color.palette.mono.300}"
+          "$value": "{color.palette.accent.500}"
         },
         "accent-light": {
           "$type": "color",
