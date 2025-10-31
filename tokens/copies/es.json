@@ -322,7 +322,7 @@
   "video": {
     "title": {
       "$type": "text",
-      "$value": "Maestros del espresso"
+      "$value": "Así es The Coffee Code"
     }
   },
   "faqs": {
@@ -388,7 +388,7 @@
     },
     "title": {
       "$type": "text",
-      "$value": "Título de preguntas frecuentes"
+      "$value": "Preguntas frecuentes"
     }
   },
   "footer": {
