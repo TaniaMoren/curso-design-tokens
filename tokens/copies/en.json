@@ -325,66 +325,66 @@
     "one": {
       "title": {
         "$type": "text",
-        "$value": "Title one"
+        "$value": "Do I need previous experience with coffee?"
       },
       "description": {
         "$type": "text",
-        "$value": "Description one"
+        "$value": "No, this course is designed for both beginners and coffee lovers who want to improve their technique from home."
       }
     },
     "two": {
       "title": {
         "$type": "text",
-        "$value": "Title two"
+        "$value": "What materials or tools do I need?"
       },
       "description": {
         "$type": "text",
-        "$value": "Description two"
+        "$value": "Just a coffee maker (Italian, drip, or French press) and a strong desire to experiment. During the course, we’ll give you optional recommendations for each brewing method."
       }
     },
     "three": {
       "title": {
         "$type": "text",
-        "$value": "Title three"
+        "$value": "Can I take the course at my own pace?"
       },
       "description": {
         "$type": "text",
-        "$value": "Description three"
+        "$value": "Yes. All content is available online, and you can repeat the lessons as many times as you want."
       }
     },
     "four": {
       "title": {
         "$type": "text",
-        "$value": "Title four"
+        "$value": "Will I receive a certificate at the end?"
       },
       "description": {
         "$type": "text",
-        "$value": "Description four"
+        "$value": "Yes, once you complete all the sessions, you’ll receive a digital certificate from The Coffee Code that you can share on social media or add to your portfolio."
       }
     },
     "five": {
       "title": {
         "$type": "text",
-        "$value": "Title five"
+        "$value": "Does it include recipes or just theory?"
       },
       "description": {
         "$type": "text",
-        "$value": "Description five"
+        "$value": "Both! You’ll learn the theoretical basics and practice with recipes for hot and cold coffee, plus creative combinations."
       }
     },
     "six": {
       "title": {
         "$type": "text",
-        "$value": "Title six"
+        "$value": "What if I have questions during the course?"
       },
       "description": {
         "$type": "text",
-        "$value": "Description six"
+        "$value": "You can write to us or leave comments on each lesson. Our team replies within a maximum of 48 hours."
       }
     },
     "title": {
       "$type": "text",
-      "$value": "Title FAQs"
+      "$value": "FAQs"
     }
   },
   "footer": {
