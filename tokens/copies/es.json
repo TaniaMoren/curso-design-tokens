@@ -272,15 +272,15 @@
       "two": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda tarjeta dos"
+          "$value": "LATTE LOVER"
         },
         "title": {
           "$type": "text",
-          "$value": "Título tarjeta dos"
+          "$value": "CURSO COMPLETO"
         },
         "price-primary": {
           "$type": "text",
-          "$value": "Precio principal"
+          "$value": "98€"
         },
         "price-secondary": {
           "$type": "text",
@@ -288,7 +288,7 @@
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción tarjeta dos"
+          "$value": "Explora las técnicas de vaporizado, proporciones y tipos de leche para conseguir texturas cremosas y dibujos perfectos en cada taza. Desde el clásico capuccino hasta el flat white, aprende a equilibrar aroma y estética como un auténtico barista."
         },
         "button": {
           "$type": "text",
