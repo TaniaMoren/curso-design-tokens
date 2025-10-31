@@ -250,19 +250,19 @@
       "one": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda tarjeta uno"
+          "$value": "HOME BREW"
         },
         "title": {
           "$type": "text",
-          "$value": "Título tarjeta uno"
+          "$value": "CURSO BASE"
         },
         "price": {
           "$type": "text",
-          "$value": "Precio"
+          "$value": "49€"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción tarjeta uno"
+          "$value": "Aprende los fundamentos del café perfecto y domina métodos como prensa francesa, Chemex o V60 desde casa."
         },
         "button": {
           "$type": "text",
@@ -280,7 +280,7 @@
         },
         "price-primary": {
           "$type": "text",
-          "$value": "98€"
+          "$value": "78€"
         },
         "price-secondary": {
           "$type": "text",
@@ -292,7 +292,7 @@
         },
         "button": {
           "$type": "text",
-          "$value": "Botón tarjeta dos"
+          "$value": "Me interesa"
         }
       },
       "three": {
@@ -306,7 +306,7 @@
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción tarjeta tres"
+          "$value": "Aprende las técnicas para dominar el café con leche: vaporizado, proporciones y tipos de leche. Perfecciona la textura y el arte en la superficie para lograr resultados profesionales en casa."
         },
         "button": {
           "$type": "text",
