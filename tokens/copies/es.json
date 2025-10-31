@@ -329,61 +329,61 @@
     "one": {
       "title": {
         "$type": "text",
-        "$value": "Título uno"
+        "$value": "¿Necesito experiencia previa en café?"
       },
       "description": {
         "$type": "text",
-        "$value": "Descripción uno"
+        "$value": "No, este curso está pensado tanto para principiantes como para amantes del café que quieran mejorar su técnica desde casa."
       }
     },
     "two": {
       "title": {
         "$type": "text",
-        "$value": "Título dos"
+        "$value": "¿Qué materiales o utensilios necesito?"
       },
       "description": {
         "$type": "text",
-        "$value": "Descripción dos"
+        "$value": "Solo una cafetera (italiana, de filtro o prensa francesa) y muchas ganas de experimentar. Durante el curso te daremos recomendaciones opcionales según cada método."
       }
     },
     "three": {
       "title": {
         "$type": "text",
-        "$value": "Título tres"
+        "$value": "¿Puedo seguir el curso a mi ritmo?"
       },
       "description": {
         "$type": "text",
-        "$value": "Descripción tres"
+        "$value": "Sí. Todo el contenido está disponible online y puedes repetir las lecciones tantas veces como quieras."
       }
     },
     "four": {
       "title": {
         "$type": "text",
-        "$value": "Título cuatro"
+        "$value": "¿Recibo algún certificado al finalizar?"
       },
       "description": {
         "$type": "text",
-        "$value": "Descripción cuatro"
+        "$value": "Sí, al completar todas las sesiones recibirás un certificado digital de The Coffee Code que podrás compartir en redes o añadir a tu portfolio."
       }
     },
     "five": {
       "title": {
         "$type": "text",
-        "$value": "Título cinco"
+        "$value": "¿Incluye recetas o solo teoría?"
       },
       "description": {
         "$type": "text",
-        "$value": "Descripción cinco"
+        "$value": "Incluye ambas: aprenderás la base teórica y practicarás con recetas de café caliente, frío y combinaciones creativas."
       }
     },
     "six": {
       "title": {
         "$type": "text",
-        "$value": "Título seis"
+        "$value": "¿Y si tengo dudas durante el curso?"
       },
       "description": {
         "$type": "text",
-        "$value": "Descripción seis"
+        "$value": "Podrás escribirnos o dejar comentarios en cada lección. Nuestro equipo responde en un máximo de 48 horas."
       }
     },
     "title": {
