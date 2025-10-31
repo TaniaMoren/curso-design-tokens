@@ -266,7 +266,7 @@
         },
         "button": {
           "$type": "text",
-          "$value": "Botón tarjeta uno"
+          "$value": "Me interesa"
         }
       },
       "two": {
@@ -302,7 +302,7 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Título tarjeta tres"
+          "$value": "Curso avanzado"
         },
         "price": {
           "$type": "text",
@@ -310,11 +310,11 @@
         },
         "description": {
           "$type": "text",
-          "$value": "Aprende las técnicas para dominar el café con leche: vaporizado, proporciones y tipos de leche. Perfecciona la textura y el arte en la superficie para lograr resultados profesionales en casa."
+          "$value": "Aprende las técnicas para dominar el café con leche: vaporizado, proporciones y tipos de leche. Perfecciona la textura y el arte en la superficie."
         },
         "button": {
           "$type": "text",
-          "$value": "Botón tarjeta tres"
+          "$value": "Me interesa"
         }
       }
     }
@@ -322,7 +322,7 @@
   "video": {
     "title": {
       "$type": "text",
-      "$value": "Título del video"
+      "$value": "Maestros del espresso"
     }
   },
   "faqs": {
