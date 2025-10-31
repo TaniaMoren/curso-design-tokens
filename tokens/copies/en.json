@@ -10,7 +10,7 @@
     },
     "button": {
       "$type": "text",
-      "$value": "Hero Button"
+      "$value": "Discover it"
     }
   },
   "intro": {
