@@ -334,7 +334,7 @@
     "dashed": {
       "$type": "border",
       "$value": {
-        "width": "{borderWidth.medium}",
+        "width": "{borderWidth.small}",
         "style": "dashed"
       }
     },
