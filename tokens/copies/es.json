@@ -298,11 +298,15 @@
       "three": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda tarjeta tres"
+          "$value": "Cold Brew Expert"
         },
         "title": {
           "$type": "text",
           "$value": "Título tarjeta tres"
+        },
+        "price": {
+          "$type": "text",
+          "$value": "99€"
         },
         "description": {
           "$type": "text",

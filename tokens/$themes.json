@@ -564,7 +564,8 @@
       "footer.link.privacy": "f6927f057528a282386a2e2a337099a8ed358580",
       "footer.link.mail": "bfd4ebf508c8c848bb2260cb41b537271bd1c322",
       "footer.link.linkedin": "781463d1aa4bcd817bd235563db18cda8fa5813a",
-      "footer.link.substack": "3d12b5877a5d7a32a623b9703cf6b0acba31baae"
+      "footer.link.substack": "3d12b5877a5d7a32a623b9703cf6b0acba31baae",
+      "pricing.card.three.price": "06c19a3139b962b9f5e1a4abb8f372e6cec3877f"
     },
     "$figmaCollectionId": "VariableCollectionId:2275:2364",
     "$figmaModeId": "2275:0"
