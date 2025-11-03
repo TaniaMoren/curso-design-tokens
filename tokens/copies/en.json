@@ -16,16 +16,16 @@
   "intro": {
     "title": {
       "$type": "text",
-      "$value": "Intro Title"
+      "$value": "What will you learn?"
     },
     "subtitle": {
       "p1": {
         "$type": "text",
-        "$value": "Intro paragraph 1"
+        "$value": "Video lessons, printable recipes, and simple tips so you can practice with your coffee maker or French press. All designed so you can learn at your own pace and enjoy every brew."
       },
       "p2": {
         "$type": "text",
-        "$value": "Intro paragraph 2"
+        "$value": "You'll learn everything from how to recognize a good coffee bean and grind it correctly, to mastering the ideal water-to-coffee ratio for perfect flavor. You'll also discover how to froth milk, prepare cold brew, and create barista-style presentations. Everything is designed so you can learn at your own pace, enjoy the process, and turn each cup into a unique experience made by you, for you."
       }
     },
     "button": {
