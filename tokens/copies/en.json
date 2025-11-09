@@ -48,28 +48,28 @@
   "sessions": {
     "title": {
       "$type": "text",
-      "$value": "Sessions title"
+      "$value": "Your coffee journey"
     },
     "tag": {
       "one": {
         "$type": "text",
-        "$value": "Sessions tag one"
+        "$value": "Session one"
       },
       "two": {
         "$type": "text",
-        "$value": "Sessions tag two"
+        "$value": "Session two"
       },
       "three": {
         "$type": "text",
-        "$value": "Sessions tag three"
+        "$value": "Session three"
       },
       "four": {
         "$type": "text",
-        "$value": "Sessions tag four"
+        "$value": "Session four"
       },
       "five": {
         "$type": "text",
-        "$value": "Sessions tag five"
+        "$value": "Session five"
       }
     },
     "card": {
