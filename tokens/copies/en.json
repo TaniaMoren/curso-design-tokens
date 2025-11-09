@@ -132,29 +132,29 @@
       "five": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption five"
+          "$value": "CARD FIVE LEGEND"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title five"
+          "$value": "MILK AND LATTE ART"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description five"
+          "$value": "Discover how to texture milk to achieve a smooth and dense crema, and learn the basics of latte art."
         }
       },
       "six": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption six"
+          "$value": "SESSION SIX"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title six"
+          "$value": "COLD BREW AND ICED COFFEE"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description six"
+          "$value": "Experiment with cold infusions, refreshing recipes, and modern combinations for the warmer months.Reintentar"
         }
       },
       "seven": {
