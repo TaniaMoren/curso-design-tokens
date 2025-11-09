@@ -269,6 +269,28 @@
           "$value": "I'm interested"
         }
       },
+      "three": {
+        "caption": {
+          "$type": "text",
+          "$value": "COLD BREW EXPERT"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "ADVANCED COURSE"
+        },
+        "price": {
+          "$type": "text",
+          "$value": "78€"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Learn the techniques to master coffee with milk: steaming, proportions and milk types. Perfect the texture and art on the surface."
+        },
+        "button": {
+          "$type": "text",
+          "$value": "I'm interested"
+        }
+      },
       "two": {
         "caption": {
           "$type": "text",
@@ -293,24 +315,6 @@
         "button": {
           "$type": "text",
           "$value": "I'm interested"
-        }
-      },
-      "three": {
-        "caption": {
-          "$type": "text",
-          "$value": "Caption card three"
-        },
-        "title": {
-          "$type": "text",
-          "$value": "Title card three"
-        },
-        "description": {
-          "$type": "text",
-          "$value": "Description card three"
-        },
-        "button": {
-          "$type": "text",
-          "$value": "Button card three"
         }
       }
     }
