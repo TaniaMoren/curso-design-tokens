@@ -31,7 +31,7 @@
     "button": {
       "primary": {
         "$type": "text",
-        "$value": "Intro button primary"
+        "$value": "More information"
       },
       "secondary": {
         "$type": "text",
