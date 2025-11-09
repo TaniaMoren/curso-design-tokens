@@ -76,15 +76,15 @@
       "one": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption one"
+          "$value": "SESSION ONE"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title one"
+          "$value": "WELCOME TO THE COFFEE RITUAL"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description one"
+          "$value": "Video classes, printable recipes, and simple tips so you can practice with your coffee maker or French press. Everything designed for you to learn at your own pace and enjoy each preparation."
         }
       },
       "two": {
