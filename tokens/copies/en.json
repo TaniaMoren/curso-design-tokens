@@ -223,17 +223,17 @@
       },
       "position": {
         "$type": "text",
-        "$value": "Position one"
+        "$value": "Barista and artisan roaster"
       }
     },
     "two": {
       "name": {
         "$type": "text",
-        "$value": "Name two"
+        "$value": "Lucía Ferrer"
       },
       "position": {
         "$type": "text",
-        "$value": "Position two"
+        "$value": "Specialist in latte art and specialty coffee"
       }
     },
     "title": {
