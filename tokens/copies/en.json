@@ -219,7 +219,7 @@
     "one": {
       "name": {
         "$type": "text",
-        "$value": "Name one"
+        "$value": "Alex Rivas"
       },
       "position": {
         "$type": "text",
