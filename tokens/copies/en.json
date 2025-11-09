@@ -244,29 +244,29 @@
   "pricing": {
     "title": {
       "$type": "text",
-      "$value": "Pricing title"
+      "$value": "CHOOSE YOUR PLAN"
     },
     "card": {
       "one": {
         "caption": {
           "$type": "text",
-          "$value": "Caption card one"
+          "$value": "HOME BREW"
         },
         "title": {
           "$type": "text",
-          "$value": "Title card one"
+          "$value": "BASIC COURSE"
         },
         "price": {
           "$type": "text",
-          "$value": "Price"
+          "$value": "49€"
         },
         "description": {
           "$type": "text",
-          "$value": "Description card one"
+          "$value": "Learn the fundamentals of perfect coffee and master methods like French press, Chemex or V60 from home."
         },
         "button": {
           "$type": "text",
-          "$value": "Button card one"
+          "$value": "I'm interested"
         }
       },
       "two": {
