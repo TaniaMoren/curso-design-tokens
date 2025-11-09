@@ -322,7 +322,7 @@
   "video": {
     "title": {
       "$type": "text",
-      "$value": "Title video"
+      "$value": "That's \"The coffee code\""
     }
   },
   "faqs": {
