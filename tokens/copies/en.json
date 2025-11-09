@@ -90,43 +90,43 @@
       "two": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption two"
+          "$value": "SESSION TWO"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title two"
+          "$value": "FROM BEAN TO THE PERFECT GRIND"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description two"
+          "$value": "Learn how to choose, grind, and store coffee according to the brewing method. Small adjustments, big differences."
         }
       },
       "three": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption three"
+          "$value": "SESSION THREE"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title three"
+          "$value": "WATER MATTERS TOO"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description three"
+          "$value": "Explore how temperature, proportion, and water quality affect the flavor. The science behind a balanced cup."
         }
       },
       "four": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption four"
+          "$value": "SESSION FOUR"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title four"
+          "$value": "MASTER THE BREWING METHODS"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description four"
+          "$value": "Chemex, French press, V60... We teach you step by step how to master each technique and find your favorite."
         }
       },
       "five": {
