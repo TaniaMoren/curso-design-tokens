@@ -280,7 +280,7 @@
         },
         "price-primary": {
           "$type": "text",
-          "$value": "78€"
+          "$value": "99€"
         },
         "price-secondary": {
           "$type": "text",
