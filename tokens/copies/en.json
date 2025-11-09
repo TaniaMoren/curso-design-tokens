@@ -35,7 +35,7 @@
       },
       "secondary": {
         "$type": "text",
-        "$value": "Intro button secondary"
+        "$value": "Sign up now"
       }
     }
   },
