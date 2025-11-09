@@ -272,15 +272,15 @@
       "two": {
         "caption": {
           "$type": "text",
-          "$value": "Caption card two"
+          "$value": "LATTE LOVER"
         },
         "title": {
           "$type": "text",
-          "$value": "Title card two"
+          "$value": "COMPLETE COURSE"
         },
         "price-primary": {
           "$type": "text",
-          "$value": "Price"
+          "$value": "78€"
         },
         "price-secondary": {
           "$type": "text",
@@ -288,11 +288,11 @@
         },
         "description": {
           "$type": "text",
-          "$value": "Description card two"
+          "$value": "Explore steaming techniques, proportions and milk types to achieve creamy textures and perfect designs in every cup. From the classic cappuccino to the flat white, learn to balance aroma and aesthetics like an authentic barista."
         },
         "button": {
           "$type": "text",
-          "$value": "Button card two"
+          "$value": "I'm interested"
         }
       },
       "three": {
