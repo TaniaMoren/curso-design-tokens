@@ -128,7 +128,7 @@
       "default": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamily.primary}",
+          "fontFamily": "{fontFamily.secondary}",
           "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.100}",
           "lineHeight": "{lineHeight.small}"
