@@ -7,7 +7,7 @@
           "fontFamily": "{fontFamily.primary}",
           "fontWeight": "{fontWeight.medium}",
           "lineHeight": "{lineHeight.small}",
-          "fontSize": "{fontSize.800}",
+          "fontSize": "{dimension.x1500}",
           "letterSpacing": "{letterSpacing.contracted}"
         }
       },
