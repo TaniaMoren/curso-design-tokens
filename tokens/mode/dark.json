@@ -44,7 +44,7 @@
       "border": {
         "primary": {
           "$type": "color",
-          "$value": "{color.palette.mono.600}"
+          "$value": "{color.palette.accent.500}"
         },
         "accent": {
           "$type": "color",
