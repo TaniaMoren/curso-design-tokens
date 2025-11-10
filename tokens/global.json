@@ -232,6 +232,10 @@
       "$type": "fontSizes",
       "$value": "{fontSize.800} * 1.125"
     },
+    "950": {
+      "$type": "fontSizes",
+      "$value": "{fontSize.800} * 1.6"
+    },
     "1000": {
       "$type": "fontSizes",
       "$value": "{fontSize.900} * 2"
