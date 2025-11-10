@@ -306,7 +306,7 @@
         },
         "price": {
           "$type": "text",
-          "$value": "99€"
+          "$value": "78€"
         },
         "description": {
           "$type": "text",
