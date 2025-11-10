@@ -103,11 +103,11 @@
         "primary": {
           "default": {
             "$type": "color",
-            "$value": "{color.palette.white}"
+            "$value": "{color.palette.black}"
           },
           "hover": {
             "$type": "color",
-            "$value": "{color.palette.mono.200}"
+            "$value": "{color.palette.mono.500}"
           },
           "active": {
             "$type": "color",
