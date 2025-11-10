@@ -322,7 +322,7 @@
   "video": {
     "title": {
       "$type": "text",
-      "$value": "Así es The Coffee Code"
+      "$value": "Así es The Coffee.Code"
     }
   },
   "faqs": {
