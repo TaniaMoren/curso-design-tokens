@@ -16,23 +16,22 @@ import appStylesHref from "./app.scss?url";
 // descomentar cuando se generen las variables de dimensiones
 // import desktopVariablesHref from './build/desktop/variables.css?url';
 // import mobileVariablesHref from './build/mobile/variables.css?url';
-// import globalVariablesHref from './build/global/variables.css?url';
+import globalVariablesHref from './build/global/variables.css?url';
 
 // borrar cuando se generen las variables de dimensiones
 const desktopVariablesHref = '';
 const mobileVariablesHref = '';
-const globalVariablesHref = '';
 
 export const links: Route.LinksFunction = () => [
   { rel: "preconnect", href: "https://fonts.googleapis.com" },
   {
     rel: "preconnect",
-    href: "https://fonts.gstatic.com",
+    href: "https://fonts.googleapis.com/css2?family=Bungee&family=Host+Grotesk:ital,wght@0,300..800;1,300..800&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap",
     crossOrigin: "anonymous",
   },
   {
     rel: "stylesheet",
-    href: "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap",
+    href: "https://fonts.googleapis.com/css2?family=Bungee&family=Host+Grotesk:ital,wght@0,300..800;1,300..800&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap",
   },
 ];
 
