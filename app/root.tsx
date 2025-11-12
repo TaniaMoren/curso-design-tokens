@@ -26,13 +26,18 @@ export const links: Route.LinksFunction = () => [
   { rel: "preconnect", href: "https://fonts.googleapis.com" },
   {
     rel: "preconnect",
-    href: "https://fonts.googleapis.com/css2?family=Bungee&family=Host+Grotesk:ital,wght@0,300..800;1,300..800&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap",
+    href: "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
     crossOrigin: "anonymous",
   },
   {
     rel: "stylesheet",
-    href: "https://fonts.googleapis.com/css2?family=Bungee&family=Host+Grotesk:ital,wght@0,300..800;1,300..800&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap",
+    href: "https://fonts.googleapis.com/css2?family=Bungee&display=swap",
   },
+  {
+    rel: "stylesheet",
+    href: "ttps://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap",
+  },
+
 ];
 
 export async function clientAction({ request }: Route.ClientActionArgs) {

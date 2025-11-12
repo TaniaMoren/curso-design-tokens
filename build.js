@@ -5,6 +5,12 @@ import ThemesLoader from 'sd-themes-loader';
 register(StyleDictionary, {
   withSDBuiltins: false,
 });
+StyleDictionary.registerTransform({
+  name: "assets/background",
+  type: "value",
+  filter: (token) => token.$type === "asset",
+  transform: (token) => `url("/app/assets/${token.$value}")`,
+})
 
 const loader = ThemesLoader(StyleDictionary);
 
@@ -12,7 +18,8 @@ async function run() {
 
 const themes = await loader.load("/tokens")
 const globalTheme = themes.getThemeByName("global")
-const lightTheme = themes.getThemeByName("light");
+const lightTheme = themes.getThemeByName("light")
+const darkTheme = themes.getThemeByName("dark");
 
 const globalConfig = {
   log: {
@@ -79,7 +86,35 @@ expand: {
       files: [
         {
           format:"css/variables", 
-          destination: "app/build/light/variables.css"
+          destination: "app/build/light/variables.css",
+          options: {
+            selector: ".light"
+          }
+        }
+      ],
+      transforms: [
+        "name/kebab",
+        "assets/background",
+
+      ]
+    }
+  }
+
+}
+const darkConfig = {
+expand: {
+    typesMap: true
+    },
+
+  platforms: {
+    web: {
+      files: [
+        {
+          format:"css/variables", 
+          destination: "app/build/dark/variables.css",
+          options: {
+            selector: ".dark"
+          }
         }
       ],
       transforms: [
@@ -93,6 +128,7 @@ expand: {
 
 globalTheme.addConfig(globalConfig).build()
 lightTheme.addConfig(lightConfig).build()
+darkTheme.addConfig(darkConfig).build()
 //globalTheme.addConfig(androidConfig).build()
 
 //themes.print()
