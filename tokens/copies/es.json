@@ -10,7 +10,7 @@
     },
     "button": {
       "$type": "text",
-      "$value": "Descubre cómo hacerlo"
+      "$value": "Descúbrelo"
     }
   },
   "intro": {
@@ -25,7 +25,7 @@
       },
       "p2": {
         "$type": "text",
-        "$value": "Párrafo de introducción 2"
+        "$value": "Aprenderás desde cómo reconocer un buen grano y molerlo correctamente, hasta dominar la proporción ideal entre agua y café para lograr el sabor perfecto. También descubrirás cómo espumar leche, preparar cold brew o crear presentaciones con estilo barista. Todo está diseñado para que aprendas a tu ritmo, disfrutes del proceso y conviertas cada taza en una experiencia única hecha por ti y para ti."
       }
     },
     "button": {
@@ -233,7 +233,7 @@
       },
       "position": {
         "$type": "text",
-        "$value": "Especialista en arte latte y café de autor"
+        "$value": "Especialista en latte y café autor"
       }
     },
     "title": {
@@ -280,7 +280,7 @@
         },
         "price-primary": {
           "$type": "text",
-          "$value": "78€"
+          "$value": "99€"
         },
         "price-secondary": {
           "$type": "text",
@@ -306,7 +306,7 @@
         },
         "price": {
           "$type": "text",
-          "$value": "99€"
+          "$value": "78€"
         },
         "description": {
           "$type": "text",
@@ -322,7 +322,7 @@
   "video": {
     "title": {
       "$type": "text",
-      "$value": "Así es The Coffee Code"
+      "$value": "Así es The Coffee.Code"
     }
   },
   "faqs": {

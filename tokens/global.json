@@ -154,6 +154,10 @@
       "$type": "fontFamilies",
       "$value": "Bungee Shade"
     },
+    "tertiary": {
+      "$type": "fontFamilies",
+      "$value": "Bungee"
+    },
     "secondary": {
       "$type": "fontFamilies",
       "$value": "Inter"
@@ -231,6 +235,10 @@
     "900": {
       "$type": "fontSizes",
       "$value": "{fontSize.800} * 1.125"
+    },
+    "950": {
+      "$type": "fontSizes",
+      "$value": "{fontSize.800} * 1.6"
     },
     "1000": {
       "$type": "fontSizes",

@@ -7,7 +7,7 @@
           "fontFamily": "{fontFamily.primary}",
           "fontWeight": "{fontWeight.medium}",
           "lineHeight": "{lineHeight.small}",
-          "fontSize": "{fontSize.800}",
+          "fontSize": "{fontSize.950}",
           "letterSpacing": "{letterSpacing.contracted}"
         }
       },
@@ -17,7 +17,7 @@
           "fontFamily": "{fontFamily.primary}",
           "fontWeight": "{fontWeight.medium}",
           "lineHeight": "{lineHeight.small}",
-          "fontSize": "{fontSize.600}",
+          "fontSize": "{fontSize.900}",
           "letterSpacing": "{letterSpacing.contracted}"
         }
       },
@@ -128,7 +128,7 @@
       "default": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamily.primary}",
+          "fontFamily": "{fontFamily.secondary}",
           "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.100}",
           "lineHeight": "{lineHeight.small}"

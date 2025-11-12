@@ -31,130 +31,130 @@
     "button": {
       "primary": {
         "$type": "text",
-        "$value": "Intro button primary"
+        "$value": "More information"
       },
       "secondary": {
         "$type": "text",
-        "$value": "Intro button secondary"
+        "$value": "Sign up now"
       }
     }
   },
   "logos": {
     "title": {
       "$type": "text",
-      "$value": "Logos Title"
+      "$value": "Brands we work with"
     }
   },
   "sessions": {
     "title": {
       "$type": "text",
-      "$value": "Sessions title"
+      "$value": "Your coffee journey"
     },
     "tag": {
       "one": {
         "$type": "text",
-        "$value": "Sessions tag one"
+        "$value": "Session one"
       },
       "two": {
         "$type": "text",
-        "$value": "Sessions tag two"
+        "$value": "Session two"
       },
       "three": {
         "$type": "text",
-        "$value": "Sessions tag three"
+        "$value": "Session three"
       },
       "four": {
         "$type": "text",
-        "$value": "Sessions tag four"
+        "$value": "Session four"
       },
       "five": {
         "$type": "text",
-        "$value": "Sessions tag five"
+        "$value": "Session five"
       }
     },
     "card": {
       "one": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption one"
+          "$value": "SESSION ONE"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title one"
+          "$value": "WELCOME TO THE COFFEE RITUAL"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description one"
+          "$value": "Video classes, printable recipes, and simple tips so you can practice with your coffee maker or French press. Everything designed for you to learn at your own pace and enjoy each preparation."
         }
       },
       "two": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption two"
+          "$value": "SESSION TWO"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title two"
+          "$value": "FROM BEAN TO THE PERFECT GRIND"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description two"
+          "$value": "Learn how to choose, grind, and store coffee according to the brewing method. Small adjustments, big differences."
         }
       },
       "three": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption three"
+          "$value": "SESSION THREE"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title three"
+          "$value": "WATER MATTERS TOO"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description three"
+          "$value": "Explore how temperature, proportion, and water quality affect the flavor. The science behind a balanced cup."
         }
       },
       "four": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption four"
+          "$value": "SESSION FOUR"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title four"
+          "$value": "MASTER THE BREWING METHODS"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description four"
+          "$value": "Chemex, French press, V60... We teach you step by step how to master each technique and find your favorite."
         }
       },
       "five": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption five"
+          "$value": "CARD FIVE LEGEND"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title five"
+          "$value": "MILK AND LATTE ART"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description five"
+          "$value": "Discover how to texture milk to achieve a smooth and dense crema, and learn the basics of latte art."
         }
       },
       "six": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption six"
+          "$value": "SESSION SIX"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title six"
+          "$value": "COLD BREW AND ICED COFFEE"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description six"
+          "$value": "Experiment with cold infusions, refreshing recipes, and modern combinations for the warmer months.Reintentar"
         }
       },
       "seven": {
@@ -219,68 +219,90 @@
     "one": {
       "name": {
         "$type": "text",
-        "$value": "Name one"
+        "$value": "Alex Rivas"
       },
       "position": {
         "$type": "text",
-        "$value": "Position one"
+        "$value": "Barista and artisan roaster"
       }
     },
     "two": {
       "name": {
         "$type": "text",
-        "$value": "Name two"
+        "$value": "Lucía Ferrer"
       },
       "position": {
         "$type": "text",
-        "$value": "Position two"
+        "$value": "Specialist in latte and specialty coffee"
       }
     },
     "title": {
       "$type": "text",
-      "$value": "Title teachers"
+      "$value": "Espresso masters"
     }
   },
   "pricing": {
     "title": {
       "$type": "text",
-      "$value": "Pricing title"
+      "$value": "CHOOSE YOUR PLAN"
     },
     "card": {
       "one": {
         "caption": {
           "$type": "text",
-          "$value": "Caption card one"
+          "$value": "HOME BREW"
         },
         "title": {
           "$type": "text",
-          "$value": "Title card one"
+          "$value": "BASIC COURSE"
         },
         "price": {
           "$type": "text",
-          "$value": "Price"
+          "$value": "49€"
         },
         "description": {
           "$type": "text",
-          "$value": "Description card one"
+          "$value": "Learn the fundamentals of perfect coffee and master methods like French press, Chemex or V60 from home."
         },
         "button": {
           "$type": "text",
-          "$value": "Button card one"
+          "$value": "I'm interested"
+        }
+      },
+      "three": {
+        "caption": {
+          "$type": "text",
+          "$value": "COLD BREW EXPERT"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "ADVANCED COURSE"
+        },
+        "price": {
+          "$type": "text",
+          "$value": "78€"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Learn the techniques to master coffee with milk: steaming, proportions and milk types. Perfect the texture and art on the surface."
+        },
+        "button": {
+          "$type": "text",
+          "$value": "I'm interested"
         }
       },
       "two": {
         "caption": {
           "$type": "text",
-          "$value": "Caption card two"
+          "$value": "LATTE LOVER"
         },
         "title": {
           "$type": "text",
-          "$value": "Title card two"
+          "$value": "COMPLETE COURSE"
         },
         "price-primary": {
           "$type": "text",
-          "$value": "Price"
+          "$value": "99€"
         },
         "price-secondary": {
           "$type": "text",
@@ -288,29 +310,11 @@
         },
         "description": {
           "$type": "text",
-          "$value": "Description card two"
+          "$value": "Explore steaming techniques, proportions and milk types to achieve creamy textures and perfect designs in every cup. From the classic cappuccino to the flat white, learn to balance aroma and aesthetics like an authentic barista."
         },
         "button": {
           "$type": "text",
-          "$value": "Button card two"
-        }
-      },
-      "three": {
-        "caption": {
-          "$type": "text",
-          "$value": "Caption card three"
-        },
-        "title": {
-          "$type": "text",
-          "$value": "Title card three"
-        },
-        "description": {
-          "$type": "text",
-          "$value": "Description card three"
-        },
-        "button": {
-          "$type": "text",
-          "$value": "Button card three"
+          "$value": "I'm interested"
         }
       }
     }
@@ -318,7 +322,7 @@
   "video": {
     "title": {
       "$type": "text",
-      "$value": "Title video"
+      "$value": "That's \"The coffee.code\""
     }
   },
   "faqs": {
