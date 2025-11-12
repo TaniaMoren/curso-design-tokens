@@ -154,6 +154,10 @@
       "$type": "fontFamilies",
       "$value": "Bungee Shade"
     },
+    "tertiary": {
+      "$type": "fontFamilies",
+      "$value": "Bungee"
+    },
     "secondary": {
       "$type": "fontFamilies",
       "$value": "Inter"
