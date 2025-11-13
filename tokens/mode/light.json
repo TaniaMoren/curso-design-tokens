@@ -95,7 +95,7 @@
           },
           "active": {
             "$type": "color",
-            "$value": "{color.states.background.accent-light-active}"
+            "$value": "{color.palette.black}"
           }
         }
       },
@@ -133,7 +133,7 @@
         "primary": {
           "default": {
             "$type": "color",
-            "$value": "{color.palette.accent.500}"
+            "$value": "{color.palette.black}"
           },
           "hover": {
             "$type": "color",
