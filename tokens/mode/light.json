@@ -183,7 +183,7 @@
     "button": {
       "link": {
         "$type": "asset",
-        "$value": "arrow-link-light.svg"
+        "$value": "link-icon-light.svg"
       }
     },
     "footer": {

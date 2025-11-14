@@ -300,9 +300,13 @@
           "$type": "text",
           "$value": "Curso avanzado"
         },
-        "price": {
+        "price-primary": {
           "$type": "text",
           "$value": "78€"
+        },
+        "price-secondary": {
+          "$type": "text",
+          "$value": ""
         },
         "description": {
           "$type": "text",

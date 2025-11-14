@@ -24,7 +24,7 @@
       "m": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamily.primary}",
+          "fontFamily": "{fontFamily.tertiary}",
           "fontWeight": "{fontWeight.medium}",
           "lineHeight": "{lineHeight.small}",
           "fontSize": "{fontSize.400}",
