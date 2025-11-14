@@ -112,7 +112,7 @@ export default ({ texts }: { texts: Record<string, Record<string, any>> }) => (
           <div className="column sessions">
             {Object.values(texts.sessions.card)
               .slice(0, 6)
-              .map((props, index) => (
+              .map((props: any, index) => (
                 <Session {...props} key={`session-${index}`} />
               ))}
           </div>
@@ -292,7 +292,7 @@ export default ({ texts }: { texts: Record<string, Record<string, any>> }) => (
           <div className="column sessions">
             {Object.values(texts.faqs)
               .filter((v) => typeof v === "object")
-              .map((props, index) => (
+              .map((props: any, index) => (
                 <Session {...props} key={`faq-${index}`} />
               ))}
           </div>
