@@ -95,7 +95,9 @@ export default ({ texts } : { texts: Record<string, Record<string, any>>}) => (
                       </div>
                   </div>
                   <div className="column sessions">
-                    {Object.values(texts.sessions.card).map((props, index) => <Session {...props} key={`session-${index}`} />)}
+                    {Object.values(texts.sessions.card)
+                      .slice(0,6)
+                      .map((props, index) => <Session {...props} key={`session-${index}`} />)}
                   </div>
               </div>
           </div>
