@@ -76,8 +76,6 @@ export default ({ texts } : { texts: Record<string, Record<string, any>>}) => (
                   </div>
                   <div className="logo salesforce">
                   </div>
-                  <div className="logo uber">
-                  </div>
               </div>
           </div>
       </section>
