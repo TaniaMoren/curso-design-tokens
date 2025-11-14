@@ -1,3 +1,6 @@
+import LiteYouTubeEmbed from "react-lite-youtube-embed";
+import "react-lite-youtube-embed/dist/LiteYouTubeEmbed.css";
+
 function Session({
   caption,
   title,
@@ -77,7 +80,7 @@ export default ({ texts }: { texts: Record<string, Record<string, any>> }) => (
       <div className="container other-companies-container layout-bg">
         <div className="columns is-flex is-align-items-center is-justify-content-center">
           <div className="column is-full h2 has-text-centered">
-            <h3>{texts.logos.title}</h3>
+            <h2>{texts.logos.title}</h2>
           </div>
         </div>
         <div className="company-logos is-flex is-align-items-center is-justify-content-center">
@@ -245,14 +248,6 @@ export default ({ texts }: { texts: Record<string, Record<string, any>> }) => (
               <div className="title">
                 <h3>{texts.pricing.card.three.title}</h3>
               </div>
-              <div className="price">
-                <h2 className="price-primary">
-                  {texts.pricing.card.three["price-primary"]}
-                </h2>
-                <h3 className="price-secondary">
-                  {texts.pricing.card.three["price-secondary"]}
-                </h3>
-              </div>
               <div className="reasons">
                 {texts.pricing.card.three.description}
               </div>
@@ -273,18 +268,14 @@ export default ({ texts }: { texts: Record<string, Record<string, any>> }) => (
       <div className="container video-container">
         <div className="columns">
           <div className="column has-text-centered pricing-title">
-            <h3>{texts.video.title}</h3>
+            <h2>{texts.video.title}</h2>
           </div>
         </div>
         <div>
-          <video
-            controls
-            style={{ width: "100%", maxWidth: "100%" }}
+          <LiteYouTubeEmbed
+            id="pjc-6Ff_Ezc"
             title="Webinar sobre el curso de design tokens"
-          >
-            <source src="/app/assets/video.mp4" type="video/mp4" />
-            Tu navegador no soporta el elemento de video.
-          </video>
+          />
         </div>
       </div>
     </section>
