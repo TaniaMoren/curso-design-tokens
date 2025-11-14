@@ -53,14 +53,13 @@ export async function loader({ request }: Route.LoaderArgs) {
   const url = new URL(request.url);
   let texts = null;
 
-  texts = await import('./texts.json');
+  // texts = await import('./texts.json');
 
-  // descomentar cuando se generen los copies
-  // if (url.pathname === '/en') {
-  //  texts = await import('tokens/copies/en.json');
-  //} else {
-  //  texts = await import('tokens/copies/es.json');
-  //}
+  if (url.pathname === '/en') {
+    texts = await import('./build/copies/en.json');
+  } else {
+    texts = await import('./build/copies/es.json');
+  }
 
   return { texts };
 }

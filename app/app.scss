@@ -14588,6 +14588,7 @@ body {
 
 h1 {
     color: var(--color-core-content-primary);
+    font-family: var(--font-headline-xl-font-family);
     font-size: var(--font-headline-xl-font-size);
     font-weight: var(--font-headline-xl-font-weight);
     letter-spacing: var(--font-headline-xl-letter-spacing);
@@ -14596,6 +14597,7 @@ h1 {
 
 h2 {
     color: var(--color-core-content-primary);
+    font-family: var(--font-headline-l-font-family);
     font-size: var(--font-headline-l-font-size);
     font-weight: var(--font-headline-l-font-weight);
     letter-spacing: var(--font-headline-l-letter-spacing);
@@ -14620,6 +14622,7 @@ h2 {
 
 h3 {
     color: var(--color-core-content-primary);
+    font-family: var(--font-headline-m-font-family);
     font-size: var(--font-headline-m-font-size);
     font-weight: var(--font-headline-m-font-weight);
     letter-spacing: var(--font-headline-m-letter-spacing);
@@ -14628,6 +14631,7 @@ h3 {
 
 p {
     color: var(--color-core-content-primary);
+    font-family: var(--font-body-l-default-font-family);
     font-size: var(--font-body-l-default-font-size);
     font-weight: var(--font-body-l-default-font-weight);
     letter-spacing: var(--font-body-l-default-letter-spacing);
@@ -14659,6 +14663,7 @@ p {
 }
 
 .reasons {
+    font-family: var(--font-body-m-default-font-family);
     font-size: var(--font-body-m-default-font-size);
     font-weight: var(--font-body-m-default-font-weight);
     letter-spacing: var(--font-body-m-default-letter-spacing);
@@ -14745,6 +14750,7 @@ p {
 
 .company-info {
   text-align: center;
+  font-family: var(--font-caption-m-default-font-family);
   font-size: var(--font-caption-m-default-font-size);
   font-weight: var(--font-caption-m-default-font-weight);
   line-height: var(--font-caption-m-default-line-height);
@@ -14837,6 +14843,7 @@ p {
     align-items: center;
     padding: 10px 20px;
     border: var(--border-button-width) var(--border-button-style);
+    font-family: var(--font-button-default-font-family);
     font-size: var(--font-button-default-font-size);
     line-height: var(--font-button-default-line-height);
     font-weight: var(--font-button-default-font-weight);
@@ -14896,6 +14903,7 @@ p {
     justify-content: center;
     align-items: center;
     border-radius: var(--border-radius-small);
+    font-family: var(--font-caption-m-uppercase-font-family);
     font-size: var(--font-caption-m-uppercase-font-size);
     font-weight: var(--font-caption-m-uppercase-font-weight);
     letter-spacing: var(--font-caption-m-uppercase-letter-spacing);
@@ -14927,6 +14935,7 @@ p {
 
 .info {
     color: var(--color-core-content-secondary);
+    font-family: var(--font-caption-m-uppercase-font-family);
     font-size: var(--font-caption-m-uppercase-font-size);
     font-weight: var(--font-caption-m-uppercase-font-weight);
     letter-spacing: var(--font-caption-m-uppercase-letter-spacing);
@@ -14937,6 +14946,7 @@ p {
 .dst-session .content {
     margin-top: 1.5rem;
     color: var(--color-core-content-primary);
+    font-family: var(--font-body-m-default-font-family);
     font-size: var(--font-body-m-default-font-size);
     font-weight: var(--font-body-m-default-font-weight);
     letter-spacing: var(--font-body-m-default-letter-spacing);
@@ -15037,6 +15047,7 @@ section.sessions {
 
 .teacher-box .name {
     color: var(--color-core-content-primary);
+    font-family: var(--font-body-l-strong-font-family);
     font-size: var(--font-body-l-strong-font-size);
     font-weight: var(--font-body-l-strong-font-weight);
     letter-spacing: var(--font-body-l-strong-letter-spacing);
@@ -15045,6 +15056,7 @@ section.sessions {
 
 .teacher-box .job-title {
     color: var(--color-core-content-secondary);
+    font-family: var(--font-caption-m-default-font-family);
     font-size: var(--font-caption-m-default-font-size);
     font-weight: var(--font-caption-m-default-font-weight);
     letter-spacing: var(--font-caption-m-default-letter-spacing);
@@ -15172,6 +15184,7 @@ section.sessions {
 }
 
 .links a {
+    font-family: var(--font-caption-m-underline-font-family);
     font-size: var(--font-caption-m-underline-font-size);
     font-weight: var(--font-caption-m-underline-font-weight);
     letter-spacing: var(--font-caption-m-underline-letter-spacing);
@@ -15215,6 +15228,7 @@ section.sessions {
 .copyright {
     // position: absolute;
     // bottom: 40px;
+    font-family: var(--font-caption-m-default-font-family);
     font-size: var(--font-caption-m-default-font-size);
     font-weight: var(--font-caption-m-default-font-weight);
     letter-spacing: var(--font-caption-m-default-letter-spacing);

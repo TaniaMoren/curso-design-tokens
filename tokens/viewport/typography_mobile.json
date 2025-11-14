@@ -103,7 +103,7 @@
         "uppercase": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{fontFamily.primary}",
+            "fontFamily": "{fontFamily.tertiary}",
             "fontWeight": "{fontWeight.medium}",
             "lineHeight": "{lineHeight.medium}",
             "fontSize": "{fontSize.90}",

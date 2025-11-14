@@ -282,10 +282,6 @@
           "$type": "text",
           "$value": "99€"
         },
-        "price-secondary": {
-          "$type": "text",
-          "$value": "Precio secundario"
-        },
         "description": {
           "$type": "text",
           "$value": "Explora las técnicas de vaporizado, proporciones y tipos de leche para conseguir texturas cremosas y dibujos perfectos en cada taza. Desde el clásico capuccino hasta el flat white, aprende a equilibrar aroma y estética como un auténtico barista."

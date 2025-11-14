@@ -304,10 +304,6 @@
           "$type": "text",
           "$value": "99€"
         },
-        "price-secondary": {
-          "$type": "text",
-          "$value": "Price 2"
-        },
         "description": {
           "$type": "text",
           "$value": "Explore steaming techniques, proportions and milk types to achieve creamy textures and perfect designs in every cup. From the classic cappuccino to the flat white, learn to balance aroma and aesthetics like an authentic barista."

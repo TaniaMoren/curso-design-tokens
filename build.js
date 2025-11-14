@@ -12,6 +12,46 @@ StyleDictionary.registerTransform({
   transform: (token) => `url("/app/assets/${token.$value}")`,
 })
 
+StyleDictionary.registerTransform({
+  name: "fontFamily/css",
+  type: "value",
+  transitive: true,
+  filter: (token) => token.$type === "fontFamilies" || token.type === "fontFamily",
+  transform: (token) => {
+    const value = token.$value || token.value;
+    // Si el valor contiene espacios, lo envolvemos en comillas
+    if (typeof value === 'string' && value.includes(' ')) {
+      return `"${value}"`;
+    }
+    return value;
+  }
+})
+
+StyleDictionary.registerFormat({
+  name: 'json/nested-values',
+  format: ({ dictionary }) => {
+    const buildNestedObj = (obj, keys, value) => {
+      const key = keys.shift();
+      if (keys.length === 0) {
+        obj[key] = value;
+      } else {
+        obj[key] = obj[key] || {};
+        buildNestedObj(obj[key], keys, value);
+      }
+      return obj;
+    };
+
+    const output = {};
+    dictionary.allTokens.forEach(token => {
+      // Use $value if available, otherwise fall back to value
+      const tokenValue = token.$value !== undefined ? token.$value : token.value;
+      buildNestedObj(output, [...token.path], tokenValue);
+    });
+
+    return JSON.stringify(output, null, 2);
+  }
+})
+
 const loader = ThemesLoader(StyleDictionary);
 
 async function run() {
@@ -22,12 +62,10 @@ const lightTheme = themes.getThemeByName("light")
 const darkTheme = themes.getThemeByName("dark")
 const mobileTheme = themes.getThemeByName ("mobile")
 const desktopTheme = themes.getThemeByName ("desktop");
+const esTheme = themes.getThemeByName("es");
+const enTheme = themes.getThemeByName("en");
 
 const globalConfig = {
-  log: {
-    verbosity: 'verbose'
-
-  },
   expand: {
     typesMap: true
   },
@@ -35,7 +73,7 @@ const globalConfig = {
     web: {
       files: [
         {
-          format:"css/variables", 
+          format:"css/variables",
           destination: "app/build/global/variables.css"
         }
       ],
@@ -44,7 +82,8 @@ const globalConfig = {
         "ts/resolveMath",
         "size/pxToRem",
         "ts/typography/fontWeight",
-        "ts/size/lineheight"
+        "ts/size/lineheight",
+        "fontFamily/css"
 
       ]
     }
@@ -52,10 +91,6 @@ const globalConfig = {
 }
 
 const desktopConfig = {
-  log: {
-    verbosity: 'verbose'
-
-  },
   expand: {
     typesMap: true
   },
@@ -63,7 +98,7 @@ const desktopConfig = {
     web: {
       files: [
         {
-          format:"css/variables", 
+          format:"css/variables",
           destination: "app/build/desktop/variables.css"
         }
       ],
@@ -72,17 +107,14 @@ const desktopConfig = {
         "ts/resolveMath",
         "size/pxToRem",
         "ts/typography/fontWeight",
-        "ts/size/lineheight"
+        "ts/size/lineheight",
+        "fontFamily/css"
 
       ]
     }
   }
 }
 const mobileConfig = {
-  log: {
-    verbosity: 'verbose'
-
-  },
   expand: {
     typesMap: true
   },
@@ -90,7 +122,7 @@ const mobileConfig = {
     web: {
       files: [
         {
-          format:"css/variables", 
+          format:"css/variables",
           destination: "app/build/mobile/variables.css"
         }
       ],
@@ -99,7 +131,8 @@ const mobileConfig = {
         "ts/resolveMath",
         "size/pxToRem",
         "ts/typography/fontWeight",
-        "ts/size/lineheight"
+        "ts/size/lineheight",
+        "fontFamily/css"
 
       ]
     }
@@ -182,11 +215,41 @@ expand: {
 
 }
 
+const esConfig = {
+  platforms: {
+    web: {
+      files: [
+        {
+          format: "json/nested-values",
+          destination: "app/build/copies/es.json"
+        }
+      ],
+      transforms: []
+    }
+  }
+}
+
+const enConfig = {
+  platforms: {
+    web: {
+      files: [
+        {
+          format: "json/nested-values",
+          destination: "app/build/copies/en.json"
+        }
+      ],
+      transforms: []
+    }
+  }
+}
+
 globalTheme.addConfig(globalConfig).build()
 lightTheme.addConfig(lightConfig).build()
 darkTheme.addConfig(darkConfig).build()
 desktopTheme.addConfig(desktopConfig).build()
 mobileTheme.addConfig(mobileConfig).build();
+esTheme.addConfig(esConfig).build();
+enTheme.addConfig(enConfig).build();
 //globalTheme.addConfig(androidConfig).build()
 
 //themes.print()
